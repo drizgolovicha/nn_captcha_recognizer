@@ -1,0 +1,415 @@
+{
+  "abc": "ABCDEFJHIJKLMNOPQRSTUVWXYZ1234567890",
+  "train": [
+    {
+      "text": "A3KAAY",
+      "name": "1854870.png"
+    },
+    {
+      "text": "BAT5WJ",
+      "name": "4417365.png"
+    },
+    {
+      "text": "SMMAP9",
+      "name": "4581773.png"
+    },
+    {
+      "text": "RQB3S3",
+      "name": "4765669.png"
+    },
+    {
+      "text": "LQXM92",
+      "name": "5274796.png"
+    },
+    {
+      "text": "5WM9U8",
+      "name": "6073293.png"
+    },
+    {
+      "text": "QP2C7T",
+      "name": "6383345.png"
+    },
+    {
+      "text": "A8L3WZ",
+      "name": "7064797.png"
+    },
+    {
+      "text": "WLWYTW",
+      "name": "10100214.png"
+    },
+    {
+      "text": "AYVVFG",
+      "name": "10172931.png"
+    },
+    {
+      "text": "H97JXU",
+      "name": "10861644.png"
+    },
+    {
+      "text": "EKRSCG",
+      "name": "11010073.png"
+    },
+    {
+      "text": "ZG23TB",
+      "name": "11770503.png"
+    },
+    {
+      "text": "8CEESC",
+      "name": "13077476.png"
+    },
+    {
+      "text": "XUUHP5",
+      "name": "13157672.png"
+    },
+    {
+      "text": "HGP37Q",
+      "name": "15033728.png"
+    },
+    {
+      "text": "QRTJLN",
+      "name": "16588326.png"
+    },
+    {
+      "text": "HAB4U2",
+      "name": "17281546.png"
+    },
+    {
+      "text": "2ETF7A",
+      "name": "17985144.png"
+    },
+    {
+      "text": "UCWJ59",
+      "name": "18288183.png"
+    },
+    {
+      "text": "ZZSP5Y",
+      "name": "18312633.png"
+    },
+    {
+      "text": "GSKJ5W",
+      "name": "18634153.png"
+    },
+    {
+      "text": "8UEQXR",
+      "name": "19103153.png"
+    },
+    {
+      "text": "ZQYZTN",
+      "name": "20601259.png"
+    },
+    {
+      "text": "SE2UHZ",
+      "name": "22557585.png"
+    },
+    {
+      "text": "6JQART",
+      "name": "22564719.png"
+    },
+    {
+      "text": "WQK2AJ",
+      "name": "23609611.png"
+    },
+    {
+      "text": "SHRLE8",
+      "name": "25333990.png"
+    },
+    {
+      "text": "L4FTYL",
+      "name": "26555272.png"
+    },
+    {
+      "text": "VKS7AA",
+      "name": "28607146.png"
+    },
+    {
+      "text": "XQHCNR",
+      "name": "31224896.png"
+    },
+    {
+      "text": "3FQFDF",
+      "name": "31511593.png"
+    },
+    {
+      "text": "TD2MHT",
+      "name": "32876318.png"
+    },
+    {
+      "text": "HHYAEY",
+      "name": "33016102.png"
+    },
+    {
+      "text": "BY6HMS",
+      "name": "33184209.png"
+    },
+    {
+      "text": "WNWEHT",
+      "name": "34070297.png"
+    },
+    {
+      "text": "WQHX6B",
+      "name": "36468625.png"
+    },
+    {
+      "text": "LYFDMR",
+      "name": "37914775.png"
+    },
+    {
+      "text": "42RU5L",
+      "name": "38279389.png"
+    },
+    {
+      "text": "9B7YVY",
+      "name": "39647914.png"
+    },
+    {
+      "text": "9YP6W4",
+      "name": "40735324.png"
+    },
+    {
+      "text": "EHG948",
+      "name": "41650438.png"
+    },
+    {
+      "text": "B3NEYS",
+      "name": "42971177.png"
+    },
+    {
+      "text": "FD37NM",
+      "name": "43969730.png"
+    },
+    {
+      "text": "YVQ573",
+      "name": "44809586.png"
+    },
+    {
+      "text": "M2CTHG",
+      "name": "45049916.png"
+    },
+    {
+      "text": "C79V75",
+      "name": "46060257.png"
+    },
+    {
+      "text": "P5TJ5P",
+      "name": "46085510.png"
+    },
+    {
+      "text": "S23ZVL",
+      "name": "48972172.png"
+    },
+    {
+      "text": "ZZE7J6",
+      "name": "49756825.png"
+    },
+    {
+      "text": "A3PDKC",
+      "name": "51633168.png"
+    },
+    {
+      "text": "2K3YAJ",
+      "name": "52824824.png"
+    },
+    {
+      "text": "ZVD2KX",
+      "name": "55000064.png"
+    },
+    {
+      "text": "WBW97Q",
+      "name": "55794081.png"
+    },
+    {
+      "text": "8YTVPP",
+      "name": "60323126.png"
+    },
+    {
+      "text": "34SBMK",
+      "name": "60394140.png"
+    },
+    {
+      "text": "BHM9W5",
+      "name": "61119629.png"
+    },
+    {
+      "text": "SXU9WU",
+      "name": "61572448.png"
+    },
+    {
+      "text": "YWCWMA",
+      "name": "62419323.png"
+    },
+    {
+      "text": "RNSF9K",
+      "name": "62707625.png"
+    },
+    {
+      "text": "ZUR6RB",
+      "name": "63377552.png"
+    },
+    {
+      "text": "HUER8W",
+      "name": "65032168.png"
+    },
+    {
+      "text": "SLX62Z",
+      "name": "66173191.png"
+    },
+    {
+      "text": "MDGQKW",
+      "name": "66213195.png"
+    },
+    {
+      "text": "42CPPF",
+      "name": "66985081.png"
+    },
+    {
+      "text": "LTAMVS",
+      "name": "70199716.png"
+    },
+    {
+      "text": "R763ZR",
+      "name": "70628887.png"
+    },
+    {
+      "text": "5T8P65",
+      "name": "70826566.png"
+    },
+    {
+      "text": "M64AA2",
+      "name": "74036750.png"
+    },
+    {
+      "text": "TPZDFF",
+      "name": "74602001.png"
+    },
+    {
+      "text": "5ZMQG2",
+      "name": "75069461.png"
+    },
+    {
+      "text": "8YLGMF",
+      "name": "75660100.png"
+    },
+    {
+      "text": "84PGPJ",
+      "name": "76487527.png"
+    },
+    {
+      "text": "PL9NS6",
+      "name": "76623914.png"
+    },
+    {
+      "text": "CTZLK6",
+      "name": "76737472.png"
+    },
+    {
+      "text": "FVSUWX",
+      "name": "77241582.png"
+    },
+    {
+      "text": "9PVEV4",
+      "name": "77632687.png"
+    },
+    {
+      "text": "BUL8NH",
+      "name": "78991319.png"
+    },
+    {
+      "text": "SNXJBZ",
+      "name": "79076058.png"
+    },
+    {
+      "text": "C9NXUN",
+      "name": "81246530.png"
+    },
+    {
+      "text": "US68Y2",
+      "name": "81782054.png"
+    },
+    {
+      "text": "C8WEBU",
+      "name": "82439325.png"
+    }
+  ],
+  "test": [
+    {
+      "text": "LBUUQN",
+      "name": "82676566.png"
+    },
+    {
+      "text": "DWHAES",
+      "name": "83164929.png"
+    },
+    {
+      "text": "UT8NXU",
+      "name": "85375087.png"
+    },
+    {
+      "text": "W6L4FH",
+      "name": "86378630.png"
+    },
+    {
+      "text": "6H2525",
+      "name": "87257203.png"
+    },
+    {
+      "text": "88M946",
+      "name": "87808956.png"
+    },
+    {
+      "text": "A989QA",
+      "name": "88099186.png"
+    },
+    {
+      "text": "L8XS8L",
+      "name": "89496059.png"
+    },
+    {
+      "text": "GEZAQ4",
+      "name": "91108168.png"
+    },
+    {
+      "text": "GNS7PU",
+      "name": "91285164.png"
+    },
+    {
+      "text": "C2WV2H",
+      "name": "92164076.png"
+    },
+    {
+      "text": "PTZFP8",
+      "name": "92763687.png"
+    },
+    {
+      "text": "NWQDZ6",
+      "name": "93600092.png"
+    },
+    {
+      "text": "ZVKHXH",
+      "name": "94188717.png"
+    },
+    {
+      "text": "DZB3D2",
+      "name": "94750432.png"
+    },
+    {
+      "text": "RZGV5T",
+      "name": "94797065.png"
+    },
+    {
+      "text": "6NLLJA",
+      "name": "95254220.png"
+    },
+    {
+      "text": "URDHBS",
+      "name": "96130698.png"
+    },
+    {
+      "text": "ZCCCJM",
+      "name": "98466779.png"
+    },
+    {
+      "text": "46WDHX",
+      "name": "99787057.png"
+    }
+  ]
+}

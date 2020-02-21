@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="fr-ca">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Robots" content="no-index, follow">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script type="text/javascript" src="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/jquery/1.11/jquery-1.11.1.min.js"></script>
+<script src="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/jquery/plugin/cookie/jquery.cookie.js"></script>
+<script src="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/js/cookies.js"></script>
+<link rel="stylesheet" type="text/css" href="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/bootstrap/3.1.1/bootstrap.min.css" />
+<link href="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/themes/prt_vdm_v2/prt_vdm_v2_erreur.css" type="text/css" rel="stylesheet"/>
+<!--[if IE 7]> <link href="https://servicesenligne2.ville.montreal.qc.ca/depot-gen/themes/prt_vdm_v2/prt_vdm_v2_erreur_ie7_fix.css" type="text/css" rel="stylesheet"/><![endif]-->
+<title>Page d'erreur</title>
+</head>
+
+<body>
+    <div class="header">
+      <div class="container">
+      	<a href="http://ville.montreal.qc.ca/"><img src="http://ville.montreal.qc.ca/pls/portal/docs/page/lib_fr/media/images/logo_mtl_ftr.gif" alt="" border="0"></a>
+        </div>
+    </div>
+    <div class="container contenu">
+      <div class="row message">
+        <div class="col-md-12">
+        	<h1>Page d'erreur</h1>
+          <div class="fr">
+            <p>Le site Web n&rsquo;est pas en mesure d&rsquo;afficher cette  page. <br/>Si le probl&egrave;me persiste, veuillez communiquer avec <a href="mailto:webmestre@ville.montreal.qc.ca">webmestre@ville.montreal.qc.ca</a></p>
+          </div>
+          <div class="en">
+            <p>The website is unable  to display the page you requested. <br/>If the problem persists, please contact <a href="mailto:webmestre@ville.montreal.qc.ca">webmestre@ville.montreal.qc.ca</a></p>
+          </div>
+         <p>Aimeriez-vous collaborer à la refonte du site web de la Ville de Montréal actuellement en cours? <br>
+  Consultez notre <a href="https://beta.montreal.ca/" target="_blank" >site bêta</a>, faites nous part de vos impressions et participez au virage numérique de la Ville!</p>
+  
+   <p>Would you like to take part in the redesign of Montréal's Web site that is currently underway?  <br>
+  Visit our <a href="https://beta.montreal.ca/en/" target="_blank" >beta site</a>, share your impressions with us and participate in the city's digital revolution!
+</p>
+
+        </div>
+      </div>
+       <div class="row liens-sections">
+        <div class="col-md-6 col-sm-6 col-xs-6 col-gch">
+         <a href="http://www.ville.montreal.qc.ca">Accueil</a>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6 col-drt">
+          <a href="http://www.ville.montreal.qc.ca/en">Home</a>
+        </div>
+      </div>
+      <div class="row liens-sections">
+        <div class="col-md-6 col-sm-6 col-xs-6 col-gch">
+            <a title="Services aux citoyens" href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,85283571&_dad=portal&_schema=PORTAL">Services aux citoyens</a>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6  col-drt">
+          <a title="The city and its services" href="http://ville.montreal.qc.ca/portal/page?_pageid=5977,86679901&_dad=portal&_schema=PORTAL">City services</a>
+        </div>
+      </div>
+      <div class="row liens-sections">
+        <div class="col-md-6 col-sm-6 col-xs-6 col-gch">
+                <a title="Activit&eacute;s et loisirs" href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,85623579&_dad=portal&_schema=PORTAL">Activit&eacute;s et loisirs</a>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6 col-drt">
+              <a title="Activities and recreation" href="http://ville.montreal.qc.ca/portal/page?_pageid=5977,86679875&_dad=portal&_schema=PORTAL">Activities and recreation</a>
+        </div>
+      </div>
+      <div class="row liens-sections">
+        <div class="col-md-6 col-sm-6 col-xs-6 col-gch">
+                <a title="Affaires et &eacute;conomie" href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,85727573&_dad=portal&_schema=PORTAL">Affaires et &eacute;conomie</a>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6  col-drt">
+              <a title="Business and economy" href="http://ville.montreal.qc.ca/portal/page?_pageid=5977,86679911&_dad=portal&_schema=PORTAL">Business and economy</a>
+        </div>
+      </div>
+      <div class="row liens-sections">
+        <div class="col-md-6 col-sm-6 col-xs-6 col-gch">
+              <a title="Vie d&eacute;mocratique" href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,85807620&_dad=portal&_schema=PORTAL">Vie d&eacute;mocratique</a>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6 col-drt">
+              <a title="Democratic participation" href="http://ville.montreal.qc.ca/portal/page?_pageid=5977,86679915&_dad=portal&_schema=PORTAL">Democratic participation</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- LOCAL -->
+<script type='text/javascript'>
+  try {
+    deleteAllCookies();
+  } catch(err){}
+</script>
+</body>
+</html>
