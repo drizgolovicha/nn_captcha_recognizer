@@ -1,3 +1,4 @@
+python, pytorch, captcha recognize, cnn
 This is learning project to understand how machine learning works.
 Aim - create and tech network to do text on picture recognition.
 
